@@ -161,4 +161,4 @@ df1
 
 
 # Result
- Thus the Data Cleaning Process is executed Successfully.
+Thus we have cleaned the data and removed the outliers by detection using IQR and Z-score method.
